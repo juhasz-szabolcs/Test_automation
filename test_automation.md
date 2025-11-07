@@ -38,3 +38,8 @@
 #### Mi a különbség a felhasználói elfogadási teszt (UAT) és a rendszerteszt között?
 
 #### Mi a különbség a statikus és dinamikus tesztelés között?
+
+
+### Szoftverfejlesztési és tesztelési modellek(vízesés, V-modell, agilis modell):
+
+### TDD, BDD modell jellemzői.
